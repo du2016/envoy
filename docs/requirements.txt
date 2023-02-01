@@ -183,9 +183,9 @@ sphinxcontrib-devhelp==1.0.2 \
     # via
     #   -r docs/requirements.txt
     #   sphinx
-sphinxcontrib-htmlhelp==1.0.3 \
-    --hash=sha256:3c0bc24a2c41e340ac37c85ced6dafc879ab485c095b1d65d2461ac2f7cca86f \
-    --hash=sha256:e8f5bb7e31b2dbb25b9cc435c8ab7a79787ebf7f906155729338f3156d93659b
+sphinxcontrib-htmlhelp==2.0.1 \
+    --hash=sha256:0cbdd302815330058422b98a113195c9249825d681e18f11e8b1f78a2f11efff \
+    --hash=sha256:c38cb46dccf316c79de6e5515e1770414b797162b23cd3d06e67020e1d2a6903
     # via
     #   -r docs/requirements.txt
     #   sphinx
